@@ -1,4 +1,4 @@
-## Hi There👋
+## Hello👋🏽
 
 Thank you for stopping by my GitHub profile!.This GitHub account showcases not only my projects but also the journey it's been to reach where I am today.
 
@@ -27,7 +27,7 @@ Thank you for stopping by my GitHub profile!.This GitHub account showcases not o
 
 🌐 Portfolio: [My Portfolio](https://projectv4-51f3d.firebaseapp.com)
 
-### Let's unite our talents and passions to create something extraordinary. Together, we can turn dreams into remarkable projects!
+## Let's unite our talents and passions to create something extraordinary. Together, we can turn dreams into remarkable projects!
 
 
 
