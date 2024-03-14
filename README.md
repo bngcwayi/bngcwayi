@@ -27,7 +27,7 @@ Thank you for stopping by my GitHub profile!.This GitHub account showcases not o
 
 🌐 Portfolio: [My Portfolio](https://projectv4-51f3d.firebaseapp.com)
 
- CV: [Babalwa Ngcway CV](https://docs.google.com/document/d/1fQdb_vOnlHScN4x4GzA3l7IHuzggMwqTD7M9LiQaHqY/edit?usp=sharing)
+ 📄 CV: [Babalwa Ngcway CV](https://docs.google.com/document/d/1fQdb_vOnlHScN4x4GzA3l7IHuzggMwqTD7M9LiQaHqY/edit?usp=sharing)
 
 ## Let's unite our talents and passions to create something extraordinary. Together, we can turn dreams into remarkable projects!
 
