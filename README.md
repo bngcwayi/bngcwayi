@@ -15,11 +15,7 @@ This is my personal website portfolio. I'm incredibly proud to share this milest
 
 ### [Naruto Uzumaki](https://snazzy-froyo-38dcc6.netlify.app/)
 
-This is my second project, and it's a tribute page dedicated to Naruto Uzumaki. I chose Naruto as the subject because he's an anime hero who faces many challenges but never gives up. Creating this tribute page was not only a way to honor Naruto but also served as a personal reminder to stay determined and resilient, even when faced with adversity. It's a reminder to keep pushing forward on my own journey, no matter what obstacles come my way.
-
-### [Project Title 3](link_to_project_3)
-
-
+This is my second project I am most proud of, and it's a tribute page dedicated to Naruto Uzumaki. I chose Naruto as the subject because he's an anime hero who faces many challenges but never gives up. Creating this tribute page was not only a way to honor Naruto but also served as a personal reminder to stay determined and resilient, even when faced with adversity. It's a reminder to keep pushing forward on my own journey, no matter what obstacles come my way.
 
 ## Get in Touch 📬
 
