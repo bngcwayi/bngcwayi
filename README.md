@@ -17,7 +17,8 @@ Thank you for stopping by my GitHub profile!.This GitHub account showcases not o
 
 ✓ This is my second project I am most proud of, and it's a tribute page dedicated to Naruto Uzumaki. I chose Naruto as the subject because he's an anime hero who faces many challenges but never gives up. Creating this tribute page was not only a way to honor Naruto but also served as a personal reminder to stay determined and resilient, even when faced with adversity. It's a reminder to keep pushing forward on my own journey, no matter what obstacles come my way.
 
-##Skills 🛠️
+ ## Toolset🛠️
+ React.js | JavaScript| Node.js| HTML | CSS | Bootstrap | Adobe Photoshop| Figma | Balsamiq | Miro| Git| Python
 
    ## Get in Touch 📬
 
