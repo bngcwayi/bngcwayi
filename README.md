@@ -1,6 +1,6 @@
 ## Hello👋
 
-Thank you for stopping by my GitHub profile!.I'm excited to share the journey I embarked on in 2023 to enter the tech industry, and the progress I've made since then. This GitHub account showcases not only my projects but also the journey it's been to reach where I am today.
+Thank you for stopping by my GitHub profile!.This GitHub account showcases not only my projects but also the journey it's been to reach where I am today.
 
 ## About Babalwa ℹ️
 ⦾ Love music, dancing , games and  finding inspiration in diverse sources
