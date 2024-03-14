@@ -29,6 +29,12 @@ Feel free to reach out to me via:
 
 🔗🔗 LinkedIn: [Babalwa Portia Ngcwayi](https://www.linkedin.com/in/https://www.linkedin.com/in/babalwa-portia-ngcwayi-24618264/)
 
-🌐 Portfolio: [Your Portfolio](https://projectv4-51f3d.firebaseapp.com)
+🌐 Portfolio: [My Portfolio](https://projectv4-51f3d.firebaseapp.com)
 
-Let's connect and collaborate on exciting projects!
+# Let's unite our talents and passions to create something extraordinary. Together, we can turn dreams into remarkable projects!
+
+
+
+
+
+
