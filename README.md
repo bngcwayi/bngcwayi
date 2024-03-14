@@ -27,7 +27,7 @@ Feel free to reach out to me via:
 
 📧 Email: [bngcwayi@gmail.com]
 
-🔗 LinkedIn: [https://www.linkedin.com/in/babalwa-portia-ngcwayi-24618264/)
+🔗 LinkedIn: [Babalwa Portia Ngcwayi] [https://www.linkedin.com/in/babalwa-portia-ngcwayi-24618264/)
 
 🌐 Portfolio: [Your Portfolio](https://projectv4-51f3d.firebaseapp.com/)
 
