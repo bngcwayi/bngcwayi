@@ -1,10 +1,10 @@
-Hello👋
+## Hello👋
 
 Thanks for stopping by my GitHub profile! It's great to have you here. I'm excited to share the journey I embarked on in 2023 to enter the tech industry, and the progress I've made since then. This GitHub account showcases not only my projects but also the journey it's been to reach where I am today.
 
 ## About Me ℹ️
-⦾ Love music, dancing , games and  finding inspiration in diverse sources.
-⦾ Advocate for simplicity and minimalism in design and solutions.
+⦾ Love music, dancing , games and  finding inspiration in diverse sources
+⦾ Advocate for simplicity and minimalism in design and solutions
 ⦾ Goal: Reach full potential in software development, contribute to impactful solutions
 
 ## My Work 💼
@@ -25,10 +25,10 @@ Description of the project and its significance.
 
 Feel free to reach out to me via:
 
-📧 Email: [your_email@example.com](mailto:your_email@example.com)
+📧 Email: [bngcwayi@gmail.com]
 
-🔗 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+🔗 LinkedIn: [https://www.linkedin.com/in/babalwa-portia-ngcwayi-24618264/)
 
-🌐 Portfolio: [Your Portfolio](https://www.yourportfolio.com)
+🌐 Portfolio: [Your Portfolio](https://projectv4-51f3d.firebaseapp.com/)
 
 Let's connect and collaborate on exciting projects!
